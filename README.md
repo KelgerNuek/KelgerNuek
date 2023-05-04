@@ -4,7 +4,7 @@
 <a href="https://github.com/KelgerNuek" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/Joe Francis" target="_blank">
+<a href="https://linkedin.com/in/joe-francis333/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a budding data scientist with a background in mechanical engineering and experience in operations management, client relations, NDT Inspection and ERP integration. 
+I’m a budding data scientist with a background in mechanical engineering and experience in operations management, client relations and NDT Inspection. 
 
 Skilled in data analysis, statistics, machine learning, and programming languages including Python, R, SQL, Power BI & SAS with a proven ability to extract insights from data sets and communicate findings to both technical and non-technical stakeholders
   
@@ -22,12 +22,10 @@ Skilled in data analysis, statistics, machine learning, and programming language
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning about everything  
 
-
-</td><td valign="top" width="50%">
 
 
 
