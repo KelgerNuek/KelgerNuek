@@ -4,7 +4,7 @@
 
 
 
-## Hey 👋, I'm Joe Francis!  
+## Hey 👋, 
   
 
 <a href="https://github.com/KelgerNuek" target="_blank">
@@ -57,20 +57,7 @@ Skilled in data analysis, statistics, machine learning, and programming language
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
+## Github Stats 
 
 <br/>  
 
@@ -82,8 +69,6 @@ Skilled in data analysis, statistics, machine learning, and programming language
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **KelgerNuek/KelgerNuek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
