@@ -1,3 +1,9 @@
+<img src="https://github.com/KelgerNuek/KelgerNuek/blob/main/Untitled%20design(1).png" alt="banner that says Joe Francis">
+
+
+
+
+
 ## Hey 👋, I'm Joe Francis!  
   
 
